@@ -4,10 +4,14 @@ Giol-G is still in development
 ## What we're trying to do
 We want Giol-G to have an easy santex
 ## Download
-Latest: 
-Snapshot:
+- Latest:
 <detalis>
-  
+<summary>Older release</summary>
+None
+</details>
+- Snapshot:
+
+
 ## Santex
 - Basic code for listing Hello World : <code>WRE("Hello world")</code>
 - The code for input is: <code>WRI("Hello world")</code>
