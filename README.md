@@ -4,12 +4,8 @@ Giol-G is still in development
 ## What we're trying to do
 We want Giol-G to have an easy santex
 ## Download
-- Latest:
-<detalis>
-<summary>Older release</summary>
-None
-</details>
-- Snapshot:
+- Latest release:
+- Latest snapshot:
 
 
 ## Santex
